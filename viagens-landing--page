@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viage pelo Mundo!</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+
+    <nav class="nav" id="nav">
+        <!-- Navegação -->
+        <ul>
+            <li><a href="#trip-me">Minha Viagem.</a></li>
+            <li><a href="#meet-us">Nos Encontre.</a></li>
+            <li><a href="#advice">Conselhos</a></li>
+        </ul>
+    </nav>
+
+    <main class="conteiner">
+        
+        <section id="banner">
+            <!-- Seção do banner -->
+            <img id="imagem" src="img/R.png" alt="imagem vilarejo">
+            <div class="banner-content">
+                <h1 class="texto imagem">Bem-vindo à nossa agência de viagens!</h1>
+                <p class="texto imagem">Descubra lugares incríveis ao redor do mundo.</p>
+            </div>
+        </section>
+
+        <section id="trip-me">
+            <!-- Seção TripMe -->
+            <h2>Minha Viagen.</h2>
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec mollis interdum aliquam. Aliquam malesuada tellus non nisl egestas vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In at odio ante. Aliquam rutrum eget nisi vel egestas. Ut ut luctus quam. Pellentesque convallis sit amet magna vel bibendum. Quisque a turpis id quam blandit suscipit. Donec quis ipsum porttitor, tristique diam non, laoreet mauris. Praesent congue ac sem et dignissim. Integer ut commodo mauris. Praesent euismod libero feugiat eros pharetra dignissim. Aenean eget nisl non lectus facilisis elementum."
+            <!-- Conteúdo da seção TripMe -->
+
+        </section>
+
+        <section id="meet-us">
+            <!-- Seção MeetUs -->
+            <h2>Nos Encontre..</h2>
+            "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+            <!-- Conteúdo da seção MeetUs -->
+        </section>
+
+        <section id="advice">
+            <!-- Seção Conselhos -->
+            <h2>Conselhos.</h2>
+            "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+            <!-- Conteúdo da seção Conselhos -->
+        </section>
+
+        <a href="#nav" id="backToTopBtn" title="Voltar ao Topo">Topo</a>
+
+
+    </main>
+
+    <footer>
+        <!-- Rodapé -->
+        <p>© 2024 Agência de Viagens</p>
+    </footer>
+
+   <!-- No final do HTML, dentro do body ou do footer -->
+
+</body>
+</html>
